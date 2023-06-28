@@ -1,8 +1,7 @@
 # Table: Runners 
 Create table runners(
 runner_id integer,
-registration_date date
-)
+registration_date date)
 
 select * from runners;
 
